@@ -1,0 +1,18 @@
+/* ALGORITMO BASE
+
+Digitar nome e ativar botão 'Adicionar'
+    > se estiver vazio, exibir alerta avisando 
+    > cada nome será adicionado à lista
+    > mostrar lista!
+
+Mostrar lista de nomes adicionados 
+    > Cada nome tera um índice (não visível)
+        > Util para sorteio
+         
+Ativar botão 'Sortear'
+    > função sorteio = numero aleatorio entre os indices
+Exibir amigo secreto na tela
+
+Plus:
+Perguntar qual é o nome do usuario
+If nome == amigosecreto, try again */
