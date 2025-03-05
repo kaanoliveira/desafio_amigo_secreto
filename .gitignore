@@ -1,0 +1,26 @@
+# Ignorar arquivos relacionados ao sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos de cache
+node_modules/
+dist/
+build/
+
+# Ignorar arquivos pessoais
+.env
+*.local
+
+# Ignorar arquivos gerados pelo editor (exemplo: VS Code)
+.vscode/
+.idea/
+
+# Ignorar arquivos temporários
+*.tmp
+*.bak
+
+# Ignorar arquivos do Git relacionados a merges
+*.swp
