@@ -14,7 +14,7 @@ Este é um pequeno aplicativo web que permite adicionar nomes de amigos a uma li
 - JavaScript  
 
 ## 📷 Demonstração  
-![Preview do projeto](preview.png)  
+![Preview do projeto](assets/preview.png)  
 
 ## 📂 Estrutura do Projeto  
 ```plaintext
